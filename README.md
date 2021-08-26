@@ -18,18 +18,13 @@ API Starter built with Python / Django, DRF / SQLite and JWT Auth. The authentic
 
 <br />
 
-> Can be used with other UI projects for a complete **full-stack** experience  
+> **[Free Version](https://github.com/app-generator/api-server-django)** available: SQLite persistance, Unitary Tests, 24/7 LIVE Support via [Discord](https://discord.gg/fZC6hup)
 
-- [React Berry Dashboard](https://github.com/app-generator/react-berry-admin-template) - open-source sample
-- [React Datta Dashboard](https://github.com/app-generator/react-datta-able-dashboard) - open-source sample
-- [React Datta Dashboard PRO](https://appseed.us/product/react-node-js-datta-able-pro) - commercial fullstack product
+> Can be used with other [React Starters](https://appseed.us/apps/react) for a complete **Full-Stack** experience:
 
-<br />
-
-> Support: 
-
-- Github (issues tracker), Email: **support @ appseed.us** 
-- **Discord**: [LIVE Support](https://discord.gg/fZC6hup) (registered AppSeed Users) 
+| [React Node JS Berry](https://appseed.us/product/react-node-js-berry-dashboard) | [Full-Stack Material PRO](https://appseed.us/full-stack/react-material-dashboard) | [React Node Datta Able](https://github.com/app-generator/react-datta-able) |
+| --- | --- | --- |
+| [![React Node JS Berry](https://user-images.githubusercontent.com/51070104/124934742-aa392300-e00d-11eb-83bf-28d8b8704ec8.png)](https://appseed.us/product/react-node-js-berry-dashboard) | [![Full-Stack Material PRO](https://user-images.githubusercontent.com/51070104/128878037-50da7a12-787d-455d-933a-30b2957e2896.png)](https://appseed.us/full-stack/react-material-dashboard) | [![React Node Datta Able](https://user-images.githubusercontent.com/51070104/125737710-834a9e6f-c39b-4f3b-a42a-9583ce2ce1da.png)](https://github.com/app-generator/react-datta-able)
 
 <br />
 
@@ -48,27 +43,27 @@ API Starter built with Python / Django, DRF / SQLite and JWT Auth. The authentic
 
 ## How to use the code
 
-**Clone the sources** (private repository)
+**Step #1** -  Clone the sources
 
 ```bash
-$ git clone https://github.com/app-generator/priv-api-server-django-pro.git
-$ cd priv-api-server-django-pro
+$ git clone https://github.com/app-generator/api-server-django.git
+$ cd api-server-django
 ```
 
-**Create a virtual environment**
+**Step #2** - Create a virtual environment
 
 ```bash
 $ virtualenv -p python3 venv
 $ source venv/bin/activate
 ```
 
-**Install dependencies** using pip
+**Step #3** - Install dependencies using PIP
 
 ```bash
 $ pip install -r requirements.txt
 ```
 
-**Start the API server** 
+**Step #4** - Start the API server
 
 ```bash
 $ python manage.py migrate
@@ -76,7 +71,6 @@ $ python manage.py runserver
 ```
 
 The API server will start using the default port `8000`.
-
 
 <br />
 
@@ -97,7 +91,6 @@ $ docker-compose up -d --build
 ```
 
 Visit `http://localhost:5000` in your browser. The API server will be running.
-
 
 <br />
 
@@ -149,4 +142,4 @@ authorization: JWT_TOKEN (returned by Login request)
 <br />
 
 ---
-Django API Server PRO - provided by AppSeed [App Generator](https://appseed.us)
+**Django API Server PRO** - provided by AppSeed [App Generator](https://appseed.us)
