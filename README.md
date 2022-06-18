@@ -1,5 +1,5 @@
 
-# Django API Server MOngo
+# Django API Server Mongo
 
 Simple starter built with Python / Django Rest / Sqlite3 and JWT Auth. The authentication flow is based on [json web tokens](https://jwt.io).
 
@@ -11,7 +11,7 @@ Simple starter built with Python / Django Rest / Sqlite3 and JWT Auth. The authe
 - Simple, intuitive codebase - built for beginners (can be extended with ease) 
 - Django / Django REST / a simple, easy to use backend
 - Authentication with JWT (JWT login, JWT logout, Register)
-- **Persistance**:  ``MongoDB`
+- **Persistance**:  `MongoDB`
 - Unitary tests, Docker
 - [API Interface Descriptor](https://github.com/app-generator/api-server-unified/blob/main/api.postman_collection.json): POSTMAN Collection
 
