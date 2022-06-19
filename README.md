@@ -55,8 +55,8 @@ Update the file with your data.
 **Clone the sources**
 
 ```bash
-$ git clone https://github.com/app-generator/api-server-django.git
-$ cd api-server-django
+$ git clone https://github.com/app-generator/api-server-django-mongo.git
+$ cd api-server-django-mongo
 ```
 
 **Create a virtual environment**
