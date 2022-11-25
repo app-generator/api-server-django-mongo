@@ -1,5 +1,5 @@
 
-# Django API Server `Mongo`
+# [Django API Server Mongo](https://github.com/app-generator/api-server-django-mongo)
 
 Simple starter built with Python / Django Rest / Sqlite3 and JWT Auth. The authentication flow is based on [json web tokens](https://jwt.io).
 
@@ -7,13 +7,13 @@ Simple starter built with Python / Django Rest / Sqlite3 and JWT Auth. The authe
 
 > Features:
 
-- [API Definition](https://docs.appseed.us/boilerplate-code/api-unified-definition) - the unified API structure implemented by this server
-- Simple, intuitive codebase - built for beginners (can be extended with ease) 
-- Django / Django REST / a simple, easy to use backend
-- Authentication with JWT (JWT login, JWT logout, Register)
-- **Persistance**:  `MongoDB`
-- Unitary tests, Docker
-- [API Interface Descriptor](https://github.com/app-generator/api-server-unified/blob/main/api.postman_collection.json): POSTMAN Collection
+- ✅ [API Definition](https://docs.appseed.us/boilerplate-code/api-unified-definition) - the unified API structure implemented by this server
+- ✅ Simple, intuitive codebase - built for beginners (can be extended with ease) 
+- ✅ Django / Django REST / a simple, easy to use backend
+- ✅ Authentication with JWT (JWT login, JWT logout, Register)
+- ✅ **Persistance**:  `MongoDB`
+- ✅ Unitary tests, Docker
+- ✅ [API Interface Descriptor](https://github.com/app-generator/api-server-unified/blob/main/api.postman_collection.json): POSTMAN Collection
 
 <br />
 
@@ -147,4 +147,4 @@ authorization: JWT_TOKEN (returned by Login request)
 <br />
 
 ---
-Django API Server `Mongo` - provided by AppSeed [App Generator](https://appseed.us)
+[Django API Server Mongo](https://github.com/app-generator/api-server-django-mongo) - provided by AppSeed [App Generator](https://appseed.us)
